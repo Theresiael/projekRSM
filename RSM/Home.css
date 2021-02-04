@@ -1,0 +1,183 @@
+/*body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+.container{
+    background-color: white;
+    background-size: cover;
+}*/
+.jumbotron{
+    background-color: rgb(22, 211, 211);
+}
+
+.jumbotron .title{
+    margin-left: 3%;
+    margin-top: -1%;
+    font-family: cursive;
+}
+
+.jumbotron .uli{
+    margin-top: -1%;
+    font-family: cursive;
+}
+
+.jumbotron .nav li a{
+    font-size:25px;
+    color: black;
+}
+
+.jumbotron .nav li a:hover{
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+
+.left{
+    border: 1px solid  rgba(240, 240, 240, 0.589);
+    background-color: rgba(240, 240, 240, 0.589);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.left .pro{
+    color: rgb(22, 21, 21);
+    font-size:16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.center .cen{
+    border: 1px solid rgba(240, 240, 240, 0.589);
+    background-color: rgba(240, 240, 240, 0.589);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.center .im{
+    height:85px;
+    width:80px
+}
+
+.center .ton{
+    color: black;
+    border: none;
+    text-decoration: none;
+    background-color: rgba( 64, 224, 208, 1 );
+}
+
+.center .ton:hover{
+    color: white;
+    font-size: 1.1em;
+    text-decoration: none;
+    font-weight:bold;
+}
+
+.center .cen0{
+    margin-top: 12px;
+    background-color: rgba( 64, 224, 208, 1 );
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.center .cen0 button{
+    background: none;
+    border: none;
+    margin: -110px 0 30px 100px;
+    color: black;
+    font-weight: normal;
+}
+
+.center .cen0 input{
+    background: none;
+    border: none;
+    margin: -97px 0 30px 240px;
+    color: black;
+    font-weight: normal;
+}
+
+.center .cen0 img{
+    margin-top: -43px;
+}
+
+.container .cen0{
+    height: 35px;
+    width: 500px;
+}
+
+/*.left .navbar li a{
+    color: black;
+    font-size:20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.left .navbar li a:hover{
+    color: darkcyan;
+    font-weight:bold;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: darkcyan;
+    font-family: 'Raleway',sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+.top{
+    height: 100vh;
+    width: 100%;
+    background-image: url('image/bg.png');
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(56, 216, 181);
+}
+
+.top .navbar{
+    margin-top: 0%;
+    font-family: cursive;
+}
+
+.top .navbar-brand{
+    color: black;
+    font-size: 15pt;
+    font-weight: 700;
+    margin-right: 10%;
+    letter-spacing: 2px;
+}
+.navbar-brand .nav{
+    margin-right: 70%;
+}
+
+.top .nav li a{
+    font-size:25px;
+    color: black;
+}
+
+.top .nav li a:hover{
+    color: green;
+}
+
+.left{
+    margin-top: 2%;
+    width: 33.33%;
+    padding: 10px 30px;
+    margin-left: 15px;
+    border: 2px solid rgb(240, 240, 240);
+    background-color: rgb(240, 240, 240);
+    background-size: cover;
+    
+}
+
+.left .navbar li a{
+    color: black;
+    font-size:20px;
+    font-family: Monaco;
+}
+
+.left .navbar li a:hover{
+    color: darkcyan;
+}
+
+.right{
+    margin-top: 2%;
+    width: 66.67%;
+    padding: 25px;
+}*/

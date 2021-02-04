@@ -1,0 +1,101 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    font-family: 'Raleway',sans-serif;
+    color: #fff;
+}
+.banner{
+    height: 100vh;
+    width: 100%;
+    background-image: url('image/bg.png');
+    background-position: top;
+    background-size: cover;
+    /*background-attachment: fixed;*/
+    background-repeat: no-repeat;
+}
+.banner .navbar{
+    margin-top: 0%;
+    font-family: cursive;
+}
+.banner .navbar-brand{
+    color: black;
+    font-size: 2em;
+    font-weight: 700;
+    margin-right: 10%;
+    letter-spacing: 2px;
+}
+.navbar-brand .nav{
+    margin-right: 10%;
+}
+.banner .nav li a{
+    color: black;
+    font-size: 1.1em;
+    text-decoration: none;
+    font-weight:bold;
+}
+
+.banner .nav li a:hover{
+    color: darkcyan;
+    text-decoration: underline;
+    font-weight:bold;
+}
+
+.banner .info{
+    margin-top: 11%;
+    transform: translateX(-1%);
+    color: black;
+}
+.banner .info h1{
+    text-align: center;
+    font-size: 2.2em;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+.banner .info p{
+    text-align: center;
+    font-size: 0.95em;
+    font-weight: 650;
+}
+.banner .nam{
+    text-align: left;
+    margin-top: 8%;
+    /*margin-left: 11%;*/
+    font-size: 0.95em;
+    font-weight: 600;
+}
+.banner .pas{
+    text-align: left;
+    /*margin-left: 11%;*/
+    font-size: 0.95em;
+    font-weight: 600;
+}
+input[type=text] {
+    border: none;
+    border-bottom: 2px solid darkcyan;
+}
+
+input[type=password] {
+    border: none;
+    border-bottom: 2px solid darkcyan;
+}
+
+.banner .log{
+    margin-top: 3%;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    color: #fff;
+    background-color: darkcyan;
+    padding: 10px 20px;
+    font-size: 1em;
+    border: none;
+}
+.banner .log:hover{
+    background: rgb(55, 184, 184);
+    border: none;
+}
+
+.banner .mage{
+    margin-left: 13%;
+    margin-top: 7%;
+}
